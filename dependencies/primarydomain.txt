@@ -1,0 +1,5 @@
+primarydomain1.com
+primarydomain2.com
+.
+.
+.
